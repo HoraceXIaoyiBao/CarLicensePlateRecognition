@@ -1,0 +1,80 @@
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\concrt140.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\cvextern.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\msvcp140.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\opencv_ffmpeg401_64.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\vcruntime140.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\concrt140.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\cvextern.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\msvcp140.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\opencv_ffmpeg401.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\vcruntime140.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\n10322248\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\concrt140.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\cvextern.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\msvcp140.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\opencv_ffmpeg401_64.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\vcruntime140.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\concrt140.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\cvextern.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\msvcp140.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\opencv_ffmpeg401.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\vcruntime140.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\n10322248\OneDrive - Queensland University of Technology\C# openCV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
